@@ -1,0 +1,22 @@
+{
+  "name": "Grilled Cheese and Soup",
+  "ingredients": [
+    { "name": "cheddar cheese", "qty": "at least 3 slices" },
+    { "name": "bread", "qty": "2 slices" },
+    { "name": "tomato soup", "qty": "1 can" },
+    { "name": "milk", "qty": "1/2 cup" },
+    { "name": "butter", "qty": "2 tbls" }
+  ],
+  "instructions": {[
+     "heat soup in saucepan on the stove.  Pour in the milk and stir.  Ready to serve when steam is rising from the soup.",
+     "on medium-high heat, melt the butter in a frying pan until barely a liquid.",
+     "put a slice of bread in the frying pan.",
+     "put cheese slices on it, covering the bread.",
+     "cover the pan and wait 5 minutes.",
+     "remove the bread from the pan, melt another tablespoon of butter, and put the sandwich into the pan with the other side face down.",
+     "serve when both sides are golden brown or when the cheese super gooey."
+  ]},
+  "cookingTime": 10,
+  "difficultyRating": 1,
+  "satisfactionRating": 5
+}
